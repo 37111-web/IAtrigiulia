@@ -1,0 +1,41 @@
+
+main{
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(255, 255, 255, 0.947);
+}
+header{
+  width: 100%;
+  height: 10vh;
+  background-color: rgba(255, 255, 255, 0.907);
+}
+footer{
+  width: 90%;
+  height: 5vh;
+  background-color: rgb(235, 141, 174);
+  margin-top: 70vh;
+  border-radius: 80cap;
+  margin-left: 5%;
+  
+}
+.icone{
+  height: 3vh;
+  margin-top: 30px;
+  float: left;
+  margin-left: 3vh;
+  
+}
+.icone1{
+  height: 3vh;
+  margin-top: 30px;
+  float: right;
+  margin-right: 3vh;
+  
+}
+button{
+  height: 3vh;
+  border: 0cap;
+  border-radius: 1cap;
+  margin-top: 1vh;
+  margin-left: 30%;
+}
